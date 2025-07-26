@@ -39,3 +39,7 @@ No installation required - just open the HTML file in a browser that supports th
 - Requires browser permission to access media devices
 - Currently only records video (no audio)
 - Filters are applied to screenshots only, not recordings
+
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/1a661cf9-62ed-4394-8aa9-0eb5db01ac4a" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/40a3ab08-128e-4c15-bbb7-c71875141397" />
+
